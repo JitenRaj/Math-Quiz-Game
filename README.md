@@ -2,7 +2,7 @@
 
 A clean, responsive, and lightweight arithmetic quiz game built with modern Vanilla JavaScript. Test your mental math skills against the clock with varying difficulty levels.
 
-<a href="https://vectorstatic.github.io/Math-Quiz-Game/" target="_blank">
+<a href="https://JitenRaj.github.io/Math-Quiz-Game/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Start_Here-3b82f6?style=for-the-badge&logoColor=white" alt="Start Here" height="40" />
 </a>
 
